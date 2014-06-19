@@ -3,10 +3,10 @@ body {
 }
 
 
-a:link    { color: #c00 }  /* unvisited links */
-a:visited { color: #000000 }  /* visited links   */
+a:link    { color: #000 }  /* unvisited links */
+a:visited { color: #36F }  /* visited links   */
 a:hover   { color: #00c }  /* user hovers     */
-a:active  { color: #000000 }  /* active links    */
+a:active  { color: #fff }  /* active links    */
 
 #list p {
 	font-size: 12em;

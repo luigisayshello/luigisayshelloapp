@@ -1,0 +1,35 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+a:link    { color: #c00 }  /* unvisited links */
+a:visited { color: #000000 }  /* visited links   */
+a:hover   { color: #00c }  /* user hovers     */
+a:active  { color: #ccc }  /* active links    */
+
+#list p {
+	font-size: 12em;
+	font-weight: 200;
+	margin: 3%;
+	padding: 3%;
+	position: relative; 
+
+}
+
+
+#list li {
+	margin-right: 0%;
+	padding-right: 3%;
+	style: none;
+	font-size: 4em;
+	font-color: #000000;
+	display: inline-block;
+	position: center;
+}
+
+#list {
+	whidth: 100%;
+	weight: 100%;
+	text-align: center;
+}

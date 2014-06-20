@@ -1,31 +1,36 @@
 body {
+	
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
-a:link    { color: #000 }  /* unvisited links */
-a:visited { color: #36F }  /* visited links   */
-a:hover   { color: #00c }  /* user hovers     */
-a:active  { color: #fff }  /* active links    */
+a:link    { color: #000000 }  /* unvisited links */
+a:visited { color: #00c }  /* visited links   */
+a:hover   { color: #36F }  /* user hovers     */
+a:active  { color: #000000 }  /* active links    */
 
 #list p {
-	font-size: 12em;
-	font-weight: 200;
-	margin: 3%;
-	padding: 3%;
-	position: relative; 
-
+	font-size: 15vw;
+	font-weight: 400; 
+	margin-top: 0px;
+	whidth: 100%;
+	weight: 100%;
+	text-align: center;
+	display: inline-block;
 }
 
 
 #list li {
+	margin-top: -50%;
 	margin-right: 0%;
-	padding-right: 3%;
+	padding-right: 0%;
 	style: none;
-	font-size: 4em;
+	font-size: 8vw;
 	font-color: #000000;
+	font-weight: 100;
 	display: inline-block;
 	position: center;
+
 }
 
 #list {

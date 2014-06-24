@@ -25,7 +25,9 @@ a:hover, a:visited, a:link, a:active
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-align: center;
 	font-size: 10vw;
+	font-weight: 400px;
 	text-decoration: none;
+	position: center;
 }
 
 .title a {
@@ -34,8 +36,8 @@ a:hover, a:visited, a:link, a:active
 }
 
 #list li {
-	margin-top: -20px;
-	margin-right: 0%;
+	margin-top: -17px;
+	margin-right: 0px;
 	padding-right: 17px;
 	style: none;
 	font-size: 5vw;
@@ -49,4 +51,5 @@ a:hover, a:visited, a:link, a:active
 	whidth: 100%;
 	weight: 100%;
 	text-align: center;
+	position: center;
 }
